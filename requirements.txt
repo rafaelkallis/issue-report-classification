@@ -1,0 +1,10 @@
+ipywidgets==7.7.2
+fasttext
+gensim
+numpy
+pandas
+scikit-learn
+simpletransformers==0.63.9
+tqdm==4.63.2
+torch==1.13.0
+wandb
